@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("General-tree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e40440719aa73c20cc3df5ad7da9c63b3489c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("General-tree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("General-tree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
