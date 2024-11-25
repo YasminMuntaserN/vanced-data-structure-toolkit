@@ -1,0 +1,14 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\bin\Debug\net8.0\General-tree.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\bin\Debug\net8.0\General-tree.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\bin\Debug\net8.0\General-tree.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\bin\Debug\net8.0\General-tree.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\bin\Debug\net8.0\General-tree.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\refint\General-tree.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\General-tree.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\General Tree\obj\Debug\net8.0\ref\General-tree.dll

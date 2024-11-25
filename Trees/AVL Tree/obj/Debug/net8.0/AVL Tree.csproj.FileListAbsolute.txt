@@ -1,0 +1,14 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\bin\Debug\net8.0\AVL Tree.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\bin\Debug\net8.0\AVL Tree.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\bin\Debug\net8.0\AVL Tree.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\bin\Debug\net8.0\AVL Tree.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\bin\Debug\net8.0\AVL Tree.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\refint\AVL Tree.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\AVL Tree.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\AVL Tree\obj\Debug\net8.0\ref\AVL Tree.dll

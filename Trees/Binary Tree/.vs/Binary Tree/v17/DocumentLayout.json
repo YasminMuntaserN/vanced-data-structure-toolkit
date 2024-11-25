@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|solutionrelative:binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\binarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|solutionrelative:binarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\trees\\binary tree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7CA2FF-0280-4A89-B74D-32742B72310A}|Binary Tree.csproj|solutionrelative:binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\BinarySearchTree.cs",
+              "RelativeToolTip": "BinarySearchTree.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:34:21.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:49:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\BinaryTreeNode.cs",
+              "RelativeDocumentMoniker": "BinaryTreeNode.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\BinaryTreeNode.cs",
+              "RelativeToolTip": "BinaryTreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:50:18.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Binary Tree\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTree.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAANEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:53:02.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
