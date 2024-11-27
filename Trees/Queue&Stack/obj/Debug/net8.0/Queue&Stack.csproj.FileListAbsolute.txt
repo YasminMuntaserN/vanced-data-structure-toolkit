@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\bin\Debug\net8.0\Queue&Stack.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\bin\Debug\net8.0\Queue&Stack.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\bin\Debug\net8.0\Queue&Stack.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\bin\Debug\net8.0\Queue&Stack.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\bin\Debug\net8.0\Queue&Stack.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.sourcelink.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\refint\Queue&Stack.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\Queue&Stack.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Trees\Queue&Stack\obj\Debug\net8.0\ref\Queue&Stack.dll
