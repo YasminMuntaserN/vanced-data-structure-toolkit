@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Queue&Stack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096d082a49bee120d5a1ebd74f020b9e0bd050af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caae47de5483990ee7f650275e07738ea0c12177")]
 [assembly: System.Reflection.AssemblyProductAttribute("Queue&Stack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Queue&Stack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
