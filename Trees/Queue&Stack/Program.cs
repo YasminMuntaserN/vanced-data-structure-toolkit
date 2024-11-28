@@ -23,24 +23,15 @@ public class Program
         // Q17.Question();
         //  Q18.Question();
         //Q19.Question();
-         Q20.Question();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        // Q20.Question();
+        //  Q21.Question();
+        // Q22.Question();
+        //Q23.Question();
+        // Q24.Question();
+        // Q25.Question();
+        //Q26.Question();
+        //Q27.Question();
+        // Q28.Question();
 
     }
 }
