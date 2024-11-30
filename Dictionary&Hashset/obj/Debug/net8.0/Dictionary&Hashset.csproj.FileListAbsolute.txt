@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\bin\Debug\net8.0\Dictionary&Hashset.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\bin\Debug\net8.0\Dictionary&Hashset.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\bin\Debug\net8.0\Dictionary&Hashset.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\bin\Debug\net8.0\Dictionary&Hashset.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\bin\Debug\net8.0\Dictionary&Hashset.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.sourcelink.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\refint\Dictionary&Hashset.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\Dictionary&Hashset.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Dictionary&Hashset\obj\Debug\net8.0\ref\Dictionary&Hashset.dll

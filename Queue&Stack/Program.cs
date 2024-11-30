@@ -32,6 +32,10 @@ public class Program
         //Q26.Question();
         //Q27.Question();
         // Q28.Question();
+        //Q29.Question();
+        Q30.Question();
+
+
 
     }
 }

@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\dictionary\u0026hashset\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|solutionrelative:q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\dictionary\u0026hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\dictionary\u0026hashset\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\dictionary\u0026hashset\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\dictionary\u0026hashset\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FE1863-F827-4BC0-A53D-A2FA11E24E4D}|Dictionary\u0026Hashset.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q5.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q5.cs",
+              "RelativeDocumentMoniker": "Q5.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q5.cs",
+              "RelativeToolTip": "Q5.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:58:54.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q3.cs",
+              "RelativeDocumentMoniker": "Q3.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q3.cs",
+              "RelativeToolTip": "Q3.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:25:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q2.cs",
+              "RelativeDocumentMoniker": "Q2.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q2.cs",
+              "RelativeToolTip": "Q2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:15:21.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q1.cs",
+              "RelativeDocumentMoniker": "Q1.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:00:30.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Dictionary\u0026Hashset\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:59:49.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

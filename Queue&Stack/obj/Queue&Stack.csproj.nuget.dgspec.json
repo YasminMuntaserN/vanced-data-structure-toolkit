@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Queue&Stack\\Queue&Stack.csproj": {}
+    "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Queue&Stack\\Queue&Stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Queue&Stack\\Queue&Stack.csproj": {
+    "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Queue&Stack\\Queue&Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Queue&Stack\\Queue&Stack.csproj",
+        "projectUniqueName": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Queue&Stack\\Queue&Stack.csproj",
         "projectName": "Queue&Stack",
-        "projectPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Queue&Stack\\Queue&Stack.csproj",
+        "projectPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Queue&Stack\\Queue&Stack.csproj",
         "packagesPath": "C:\\Users\\TOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Trees\\Queue&Stack\\obj\\",
+        "outputPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\Queue&Stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
