@@ -18,19 +18,19 @@ namespace Dictionary_Hashset
         world: 1
         ﻿universe: 1
      */
-    public class Q4
+    public class Q04
     {
           private static Dictionary<string, int> CountFrequency(string word)
           {
-            Dictionary<string ,int> englishToSpanish = new Dictionary<string, int>();
+            Dictionary<string ,int> dic = new Dictionary<string, int>();
            
             foreach (string str in word.Split(" "))
             {
-                if (englishToSpanish.ContainsKey(str)) englishToSpanish[str]++;
-                else englishToSpanish[str] = 1;
+                if (dic.ContainsKey(str)) dic[str]++;
+                else dic[str] = 1;
             }
            
-            return englishToSpanish;
+            return dic;
 
           }
           public static void Question()

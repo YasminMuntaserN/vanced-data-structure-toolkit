@@ -14,7 +14,7 @@ namespace Dictionary_Hashset
         Alice's Phone: 123-456-7890
         Bob's Phone: 987-654-3210
      */
-    public class Q5
+    public class Q05
     {
           public static void Question()
           {
