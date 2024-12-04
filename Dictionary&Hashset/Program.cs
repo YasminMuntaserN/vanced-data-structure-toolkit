@@ -19,11 +19,11 @@ public class Program
         // Q13.Question();
         // Q14.Question();
         //Q15.Question();
-         Q16.Question();
+        // Q16.Question();
         // Q17.Question();
-        //  Q18.Question();
+        // Q18.Question();
         //Q19.Question();
-        // Q20.Question();
+         Q20.Question();
  
 
     }
