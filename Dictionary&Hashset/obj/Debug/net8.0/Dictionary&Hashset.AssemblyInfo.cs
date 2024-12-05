@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dictionary&Hashset")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecfb6064656206f198741d99129ab04838e0a414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d607b9f59ec8b6099c4013304a1866005b31743")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dictionary&Hashset")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dictionary&Hashset")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

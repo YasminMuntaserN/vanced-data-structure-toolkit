@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.sourcelink.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\bin\Debug\net9.0\Sorted List.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\bin\Debug\net9.0\Sorted List.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\bin\Debug\net9.0\Sorted List.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\bin\Debug\net9.0\Sorted List.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\bin\Debug\net9.0\Sorted List.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\refint\Sorted List.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\Sorted List.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Sorted List\obj\Debug\net9.0\ref\Sorted List.dll
