@@ -18,7 +18,7 @@ namespace Sorted_List
     Key Points:
     Use UnionWith to compute the union.
      */
-    public class Q3
+    public class Q03
     {
         public static void Question()
         {

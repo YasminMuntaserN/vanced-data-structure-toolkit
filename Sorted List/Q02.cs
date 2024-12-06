@@ -19,7 +19,7 @@ namespace Sorted_List
     Key Points:
     Use Min and Max properties.
      */
-    public class Q2
+    public class Q02
     {
         public static (int, int) ElementsInRange(int[] arr)
         {

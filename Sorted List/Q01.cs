@@ -18,7 +18,7 @@ namespace Sorted_List
     Use GetViewBetween to get a subset within the range.
      
      */
-    public class Q1
+    public class Q01
     {
         public static List<int> ElementsInRange(int []arr ,int low, int high)
           => new SortedSet<int>(arr).GetViewBetween(low, high).ToList();  

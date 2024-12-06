@@ -18,7 +18,7 @@ namespace Sorted_List
     Key Points:
     Use GetViewBetween to create a range and then replace the set.
      */
-    public class Q4
+    public class Q04
     {
         public static void Question()
         {

@@ -18,7 +18,7 @@ namespace Sorted_List
         Key Points:
         Use GetViewBetween to get a subset.
      */
-    public class Q5
+    public class Q05
     {
         public static List<int> ElementsLessThanValue(SortedSet<int> set, int value)
            =>set.GetViewBetween(set.Min,  value-1).ToList();
