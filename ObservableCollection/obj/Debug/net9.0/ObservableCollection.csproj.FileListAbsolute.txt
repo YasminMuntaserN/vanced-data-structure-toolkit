@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\bin\Debug\net9.0\ObservableCollection.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\bin\Debug\net9.0\ObservableCollection.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\bin\Debug\net9.0\ObservableCollection.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\bin\Debug\net9.0\ObservableCollection.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\bin\Debug\net9.0\ObservableCollection.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.sourcelink.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\refint\ObservableCollection.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ObservableCollection.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\ObservableCollection\obj\Debug\net9.0\ref\ObservableCollection.dll
