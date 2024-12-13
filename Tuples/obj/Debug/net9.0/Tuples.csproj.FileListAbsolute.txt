@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\bin\Debug\net9.0\Tuples.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\bin\Debug\net9.0\Tuples.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\bin\Debug\net9.0\Tuples.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\bin\Debug\net9.0\Tuples.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\bin\Debug\net9.0\Tuples.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.sourcelink.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\refint\Tuples.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\Tuples.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\Tuples\obj\Debug\net9.0\ref\Tuples.dll
