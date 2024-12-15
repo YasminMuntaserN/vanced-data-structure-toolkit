@@ -1,0 +1,15 @@
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\bin\Debug\net9.0\Bit_Array.exe
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\bin\Debug\net9.0\Bit_Array.deps.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\bin\Debug\net9.0\Bit_Array.runtimeconfig.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\bin\Debug\net9.0\Bit_Array.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\bin\Debug\net9.0\Bit_Array.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.AssemblyInfoInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.AssemblyInfo.cs
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.csproj.CoreCompileInputs.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.sourcelink.json
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\refint\Bit_Array.dll
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.pdb
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\Bit_Array.genruntimeconfig.cache
+C:\Users\TOP\Desktop\Advanced-DS-Toolkit\BitArray\obj\Debug\net9.0\ref\Bit_Array.dll
