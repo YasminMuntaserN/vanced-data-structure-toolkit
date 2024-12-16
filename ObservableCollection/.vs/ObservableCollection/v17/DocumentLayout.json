@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +62,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -74,8 +78,8 @@
               "Title": "Q7.cs",
               "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\ObservableCollection\\Q7.cs",
               "RelativeDocumentMoniker": "Q7.cs",
-              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\ObservableCollection\\Q7.cs*",
-              "RelativeToolTip": "Q7.cs*",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\ObservableCollection\\Q7.cs",
+              "RelativeToolTip": "Q7.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T07:15:40.55Z",

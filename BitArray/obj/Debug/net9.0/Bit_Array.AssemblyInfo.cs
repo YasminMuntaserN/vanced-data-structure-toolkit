@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bit_Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51a1a1a473c6954ca2cce8f7eac9ed8c40e49ff4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8082fd11f3b1f6e7bdd6d6cc190f4b97b60645b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bit_Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bit_Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
