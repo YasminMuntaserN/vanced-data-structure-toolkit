@@ -11,7 +11,7 @@ namespace Bit_Array
         Optimizing Space in Large Data
         Task: Use BitArray to track which seats (1,000 seats) in a theater are booked.
      */
-    public class Q3
+    public class Q03
     {
         static void DisplaySeatStatuses(BitArray seats)
         {

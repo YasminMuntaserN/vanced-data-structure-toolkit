@@ -11,7 +11,7 @@ namespace Bit_Array
         Scheduling Tasks
         Task: Represent a weekly schedule with BitArray (7 days). Check which days are free.
      */
-    public class Q4
+    public class Q04
     {
         public static void Question()
         {

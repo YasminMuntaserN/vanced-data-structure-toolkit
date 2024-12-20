@@ -11,7 +11,7 @@ namespace Bit_Array
         User Survey Results
         Task: Store the responses of 5 questions (Yes/No) for a survey of 10 users.
      */
-    public class Q2
+    public class Q02
     {
         static BitArray generateSurveyResponses()
         {

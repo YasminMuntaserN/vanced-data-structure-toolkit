@@ -6,7 +6,7 @@ namespace Bit_Array;
       Password Policy Enforcement
 Task: Use a BitArray to enforce a password policy with 4 rules (e.g., uppercase, lowercase, digit, special character). Check if a password meets the policy.
  */
-public class Q6
+public class Q06
 {
     public static void Question()
     {

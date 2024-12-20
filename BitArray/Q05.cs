@@ -6,7 +6,7 @@ namespace Bit_Array;
       Password Strength Checker
       Task: Use a BitArray to track whether a password has an uppercase letter, a lowercase letter, a digit, and a special character.
  */
-public class Q5
+public class Q05
 {
     public static void Question()
     {

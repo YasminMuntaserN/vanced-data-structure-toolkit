@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|c:\\users\\top\\desktop\\advanced-ds-toolkit\\bitarray\\q11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639634A-8619-4572-9AAB-CD7EC03FA0DA}|Bit_Array.csproj|solutionrelative:q11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +26,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Q5.cs",
-              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q5.cs",
-              "RelativeDocumentMoniker": "Q5.cs",
-              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q5.cs",
-              "RelativeToolTip": "Q5.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Q10.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q10.cs",
+              "RelativeDocumentMoniker": "Q10.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q10.cs",
+              "RelativeToolTip": "Q10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:11:30.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T07:25:26.621Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -67,11 +59,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -79,41 +71,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Q4.cs",
-              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q4.cs",
-              "RelativeDocumentMoniker": "Q4.cs",
-              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q4.cs",
-              "RelativeToolTip": "Q4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:01:53.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Q3.cs",
-              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q3.cs",
-              "RelativeDocumentMoniker": "Q3.cs",
-              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q3.cs",
-              "RelativeToolTip": "Q3.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "Q11.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q11.cs",
+              "RelativeDocumentMoniker": "Q11.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q11.cs",
+              "RelativeToolTip": "Q11.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:59:40.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T07:19:35.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Q2.cs",
-              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q2.cs",
-              "RelativeDocumentMoniker": "Q2.cs",
-              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q2.cs",
-              "RelativeToolTip": "Q2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Q12.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q12.cs",
+              "RelativeDocumentMoniker": "Q12.cs",
+              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q12.cs*",
+              "RelativeToolTip": "Q12.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:47:35.184Z"
+              "WhenOpened": "2024-12-19T07:34:02.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,22 +102,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:32:48.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Q1.cs",
-              "DocumentMoniker": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q1.cs",
-              "RelativeDocumentMoniker": "Q1.cs",
-              "ToolTip": "C:\\Users\\TOP\\Desktop\\Advanced-DS-Toolkit\\BitArray\\Q1.cs",
-              "RelativeToolTip": "Q1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:33:17.961Z"
+              "WhenOpened": "2024-12-19T07:26:07.377Z"
             }
           ]
         }

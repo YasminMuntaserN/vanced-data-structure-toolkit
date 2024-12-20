@@ -12,7 +12,13 @@ public class Program
         // Q6.Question();
         // Q7.Question();
         //Q8.Question();
-        Q9.Question();
+        // Q09.Question();
+        //Q10.Question();
+        Q11.Question();
+        Q12.Question();
+
+
+
 
 
     }

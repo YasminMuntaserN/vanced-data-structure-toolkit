@@ -11,7 +11,7 @@ namespace Bit_Array
         Traffic Light Simulation
         Task: Use a BitArray to represent the state of traffic lights at 3 intersections (Red, Yellow, Green). Change the light for one intersection.
     */
-    public class Q7
+    public class Q07
     {
         static void PrintTrafficLight(BitArray lights)
         {

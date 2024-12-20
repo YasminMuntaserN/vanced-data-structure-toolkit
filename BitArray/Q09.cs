@@ -36,7 +36,7 @@ namespace Bit_Array
         }*/
 
 
-    public class Q9()
+    public class Q09()
     {
         public static void Question()
         {

@@ -12,7 +12,7 @@ namespace Bit_Array
      Task: Represent the state of lights in a smart home system with 8 lights.
     Update the status of specific lights and turn all lights off at once.
      */
-    public class Q1
+    public class Q01
     {
         static void PrintAll(BitArray bits)
         {

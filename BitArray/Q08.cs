@@ -11,7 +11,7 @@ namespace Bit_Array
         Voting System
        Task: Use a BitArray to record votes (yes/no) for a decision in a committee of 8 members. Count the number of "yes" votes.
     */
-    public class Q8
+    public class Q08
     {
         public static void Question()
         {
