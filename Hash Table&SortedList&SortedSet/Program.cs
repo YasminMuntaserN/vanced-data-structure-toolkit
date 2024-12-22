@@ -9,10 +9,10 @@ public class Program
         //Q3.Question();
         // Q4.Question();
         // Q5.Question();
-         Q6.Question();
+        // Q6.Question();
         // Q7.Question();
         //Q8.Question();
-        // Q09.Question();
+         Q9.Question();
         //Q10.Question();
        // Q11.Question();
         //Q12.Question();
