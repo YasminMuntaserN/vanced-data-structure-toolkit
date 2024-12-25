@@ -19,7 +19,7 @@ namespace Hash_Table_SortedList_SortedSet
         public override string ToString()
          => $"\n Name : {EventName,-15} ,EventTime : {EventTime}";
     }
-    public class Q5
+    public class Q05
     {
 
         public static void Question()

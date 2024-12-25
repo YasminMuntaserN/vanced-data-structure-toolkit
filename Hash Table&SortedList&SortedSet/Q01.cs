@@ -12,7 +12,7 @@ namespace Hash_Table_SortedList_SortedSet
      Description:
      Write a program to copy all key-value pairs from one Hashtable to another.
      */
-    public class Q1
+    public class Q01
     {
         static void Print(Hashtable Hashtable)
         {

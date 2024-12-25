@@ -35,7 +35,7 @@ namespace Hash_Table_SortedList_SortedSet
         }
     }
 
-    public class Q7
+    public class Q07
     {
         public static void Question()
         {

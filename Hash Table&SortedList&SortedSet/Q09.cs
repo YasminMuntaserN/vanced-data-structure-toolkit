@@ -12,7 +12,7 @@ namespace Hash_Table_SortedList_SortedSet
         Description: Organize flight times for a day in chronological order without duplicates.
      */
 
-    public class Q9
+    public class Q09
     {
         public static void Question()
         {

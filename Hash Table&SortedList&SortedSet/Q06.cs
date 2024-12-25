@@ -19,7 +19,7 @@ namespace Hash_Table_SortedList_SortedSet
         public override string ToString()
          => $"\n Name : {MovieName,-15} ,MovieTime : {MovieTime}";
     }
-    public class Q6
+    public class Q06
     {
 
         public static void Question()

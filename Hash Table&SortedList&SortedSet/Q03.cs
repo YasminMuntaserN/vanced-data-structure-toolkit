@@ -11,7 +11,7 @@ namespace Hash_Table_SortedList_SortedSet
         Find Missing Numbers in a Range
         Description: Given a range of numbers, find the missing numbers by comparing with a SortedSet.
      */
-    public class Q3
+    public class Q03
     {
 
         public static void Question()

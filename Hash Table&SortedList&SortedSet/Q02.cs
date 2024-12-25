@@ -11,7 +11,7 @@ namespace Hash_Table_SortedList_SortedSet
         Sort and Remove Duplicates from a List
         Description: Given a list with duplicate values, use a SortedSet to remove duplicates and sort it.
      */
-    public class Q2
+    public class Q02
     {
 
         public static void Question()

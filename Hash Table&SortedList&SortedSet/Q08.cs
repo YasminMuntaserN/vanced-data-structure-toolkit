@@ -12,7 +12,7 @@ namespace Hash_Table_SortedList_SortedSet
         Description: Keep track of unique items in a shopping cart and sort them alphabetically.
      */
 
-    public class Q8
+    public class Q08
     {
         public static void Question()
         {
